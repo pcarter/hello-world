@@ -1,2 +1,1 @@
-# hello-world
-Standard hello world program
+Hi everyone, Phil here, this is a test of using git-hub, it isn't very interesting to be honest! Did you know that the weather here is absolutely attrocious, it is really stormy and the rain is coming in horizontally!
